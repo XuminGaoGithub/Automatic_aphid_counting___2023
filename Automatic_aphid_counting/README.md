@@ -7,7 +7,18 @@
   <img src="https://github.com/XuminGaoGithub/Automatic_aphid_counting___2023/blob/main/Automatic_aphid_counting/demo_data/overview-V4.jpg" width="500" height="1000"" />
 </p>
 
-<img src="https://github.com/XuminGaoGithub/Automatic_aphid_counting___2023/blob/main/Automatic_aphid_counting/demo_data/overview-V4.jpg" width="500" height="1000">
+<p align="center">
+Overview of our proposed automatic peach-potato aphid counting network architecture
+</p>\
+
+
+
+
+<p align="center">
+<img src="https://github.com/XuminGaoGithub/Automatic_aphid_counting___2023/blob/main/Automatic_aphid_counting/demo_data/visualization_final.jpg" width="1200" height="1200"> 
+</p>
+
+Visualisation of peach-potato aphid counting results using different networks (a) Original images with true bounding boxes. (b) The counting results by Yolov5. (c) The counting results by the improved Yolov5. (d) The counting results by CSRNet. (e) The counting results by our proposed automatic peach-potato aphid counting network. 
 
 
 
