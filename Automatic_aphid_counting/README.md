@@ -2,7 +2,7 @@
 # A novel hybrid network based on deep learning for the automatic peach-potato aphid counting in sugar beet fields
 
 
-<img src="https://github.com/XuminGaoGithub/Automatic_aphid_counting___2023/blob/main/Automatic_aphid_counting/demo_data/overview-V4.jpg" width="1000" height="1000">
+<img src="https://github.com/XuminGaoGithub/Automatic_aphid_counting___2023/blob/main/Automatic_aphid_counting/demo_data/overview-V4.jpg" width="500" height="1000">
 
 
 
