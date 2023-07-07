@@ -2,7 +2,7 @@
 # A novel hybrid network based on deep learning for the automatic peach-potato aphid counting in sugar beet fields
 
 
-<img src="https://github.com/JunfengGaolab/Aphid-recognition-and-counting-/blob/main/Automatic%20aphid%20counting%20base%20on%20improved%20Yolov5/demo_data/2(328).jpg" width="240" height="240"><img src="https://github.com/JunfengGaolab/Aphid-recognition-and-counting-/blob/main/Automatic%20aphid%20counting%20base%20on%20improved%20Yolov5/demo_data/2(185).jpg" width="240" height="240"><img src="https://github.com/JunfengGaolab/Aphid-recognition-and-counting-/blob/main/Automatic%20aphid%20counting%20base%20on%20improved%20Yolov5/demo_data/2(189).jpg" width="240" height="240"><img src="https://github.com/JunfengGaolab/Aphid-recognition-and-counting-/blob/main/Automatic%20aphid%20counting%20base%20on%20improved%20Yolov5/demo_data/2(190).jpg" width="240" height="240"/>
+<img src="https://github.com/XuminGaoGithub/Automatic_aphid_counting___2023/blob/main/Automatic_aphid_counting/demo_data/overview-V4.jpg" width="1000" height="1000">
 
 
 
