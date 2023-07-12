@@ -20,7 +20,7 @@ Overview of our proposed automatic aphid counting network architecture
 </p>
 
 
-Visualisation of aphid counting results using different networks (a) Original images with true bounding boxes. (b) The counting results by Yolov5. (c) The counting results by the improved Yolov5. (d) The counting results by CSRNet. (e) The counting results by our proposed automatic peach-potato aphid counting network. 
+Visualisation of aphid counting results using different networks (a) Original images with true bounding boxes. (b) The counting results by Yolov5. (c) The counting results by the improved Yolov5. (d) The counting results by CSRNet. (e) The counting results by our proposed automatic aphid counting network. 
 
 
 
