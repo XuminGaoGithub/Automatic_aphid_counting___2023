@@ -143,7 +143,7 @@ sa, sb = f'{os.sep}JPEGImages{os.sep}', f'{os.sep}labels{os.sep}'
 ```
 
 **Train**    
-`python train.py --img 640 --batch 2 --epoch 600 --data data/aphid_voc.yaml --cfg models/yolov5s-2-DCN2.yaml --weights weights/yolov5s.pt --device '0' --patience 0 --save-period 100`
+`python train.py --img 640 --batch 4 --epoch 600 --data data/aphid_voc.yaml --cfg models/yolov5s-2-DCN2.yaml --weights weights/yolov5s.pt --device '0' --patience 0 --save-period 100`
 
 We can use tensorboard or Wandb to visualize the training curves. And all of training result will be saved on ./runs/.
 
